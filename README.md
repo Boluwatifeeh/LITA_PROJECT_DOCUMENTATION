@@ -16,26 +16,31 @@ The primary source of Data here is Data Sale and this is an open source data can
   3. For Data Visualization
   
 - Structured Query Language (SQL) for querying of data
+
+- Power Bi for data modelling and visualization
   
 - GitHub for Portfoilio building
-  
-- Power Bi for data modelling and visualization
   
 ### Data Cleaning and Preparation
 In the initial phase of Data Cleaning,and Preparations, we perform the following action;
 1. Data Loading and Inspection
 2. Data Cleaning and formattiong
 3. Deleting Duplicates data
-4. Handling Missing Variables
 
 ### Exploratory Data Analysis
 Exploratory Data Analysis inviolved the exploring of the Data to answer some questions about the Data such as;
 - what is the average sales per product
 - the total revenue by the region
-- which product are the top sellers
+- The use of pivot tables to summarize total sales by product, region and month
 
-### Data Analysis
-This is where I include some basic lines of code, queries and even some of the DAX expressions used during my Analysis
+### Pivot Tables
+This is majorly used for Microsoft Excel. it summaries sales data from various region, month and products. It allows users to quicly analyze trends and make data-driven decisions.
 
-```SQL
-SELECT  
+### Important Insights
+- The pivot table highlights the total sales made on each products in different regions per month
+- It shows trends over time, allowing for better inventory management.
+- Users can esily compare sales figures across different regions, making it a powerful tool for analysis.
+  
+[SALES DATA 'tifeh.xlsx](https://github.com/user-attachments/files/17656078/SALES.DATA.tifeh.xlsx)
+
+
